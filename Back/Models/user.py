@@ -1,1 +1,0 @@
-# para definir una entidad
